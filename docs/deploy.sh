@@ -12,6 +12,6 @@ cd .vuepress/dist
 git init
 git add -A
 git commit -m "deploy with vuepress script"
-git push -f https://github.com/<gway-tech>/<guide>.git main:gh-pages
+git push -f https://gway-tech.github.io/guide/ main:gh-pages
 
 cd -
