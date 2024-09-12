@@ -1,0 +1,17 @@
+import{_ as i}from"./plugin-vue_export-helper-DlAUqK2U.js";import{c as a,a as n,b as t,o}from"./app-CSDmL_QQ.js";const r="/guide/assets/image-DbYNaNvU.png",l={};function m(s,e){return o(),a("div",null,[n(" ## Image List "),e[0]||(e[0]=t("h2",{id:"이미지-목록",tabindex:"-1"},[t("a",{class:"header-anchor",href:"#이미지-목록"},[t("span",null,"이미지 목록")])],-1)),n(" ![Add Image](image.png) "),e[1]||(e[1]=t("figure",null,[t("img",{src:r,alt:"이미지 추가",tabindex:"0",loading:"lazy"}),t("figcaption",null,"이미지 추가")],-1)),n(` Images can be uploaded through the client or added directly on the server side. After copying the image file to the server disk, use the add image command in the image management interface to add it.
+
+Name: The name of the image
+
+Category: The custom disk category
+
+Type: Includes data disk and system image
+
+Operating System: The operating system version number installed in the image
+
+Client Drive Letter: The drive letter that the disk shows on the client
+
+Disk File Path: The system image file storage path on the server
+
+Capacity: Set the capacity of the new disk file.
+
+New Disk File: Create a new image disk file `),e[2]||(e[2]=t("p",null,"이미지는 클라이언트를 통해 업로드하거나 서버 측에 직접 추가할 수 있습니다. 이미지 파일을 서버 디스크에 복사한 후 이미지 관리 인터페이스에서 add image 명령을 사용하여 추가합니다.",-1)),e[3]||(e[3]=t("p",null,"이름: 이미지의 이름",-1)),e[4]||(e[4]=t("p",null,"범주: 사용자 정의 디스크 범주",-1)),e[5]||(e[5]=t("p",null,"유형: 데이터 디스크 및 시스템 이미지를 포함합니다.",-1)),e[6]||(e[6]=t("p",null,"운영 체제: 이미지에 설치된 운영 체제 버전 번호",-1)),e[7]||(e[7]=t("p",null,"클라이언트 드라이브 문자: 디스크가 클라이언트에 표시하는 드라이브 문자",-1)),e[8]||(e[8]=t("p",null,"디스크 파일 경로: 서버의 시스템 이미지 파일 저장 경로",-1)),e[9]||(e[9]=t("p",null,"용량: 새로운 디스크 파일의 용량을 설정합니다.",-1)),e[10]||(e[10]=t("p",null,"새 디스크 파일: 새 이미지 디스크 파일을 생성합니다.",-1))])}const g=i(l,[["render",m],["__file","image.html.vue"]]),u=JSON.parse('{"path":"/guide/web/image.html","title":"이미지 관리","lang":"en-US","frontmatter":{"title":"이미지 관리","icon":"fa-solid fa-hard-drive","order":3,"category":"웹 UI","tag":"Image Management","description":"이미지 목록 이미지 추가이미지 추가 이미지는 클라이언트를 통해 업로드하거나 서버 측에 직접 추가할 수 있습니다. 이미지 파일을 서버 디스크에 복사한 후 이미지 관리 인터페이스에서 add image 명령을 사용하여 추가합니다. 이름: 이미지의 이름 범주: 사용자 정의 디스크 범주 유형: 데이터 디스크 및 시스템 이미지...","head":[["meta",{"property":"og:url","content":"https://vuepress-theme-hope-docs-demo.netlify.app/guide/guide/web/image.html"}],["meta",{"property":"og:site_name","content":"Docs Demo"}],["meta",{"property":"og:title","content":"이미지 관리"}],["meta",{"property":"og:description","content":"이미지 목록 이미지 추가이미지 추가 이미지는 클라이언트를 통해 업로드하거나 서버 측에 직접 추가할 수 있습니다. 이미지 파일을 서버 디스크에 복사한 후 이미지 관리 인터페이스에서 add image 명령을 사용하여 추가합니다. 이름: 이미지의 이름 범주: 사용자 정의 디스크 범주 유형: 데이터 디스크 및 시스템 이미지..."}],["meta",{"property":"og:type","content":"article"}],["meta",{"property":"og:locale","content":"en-US"}],["meta",{"property":"article:author","content":"Cloud-i"}],["meta",{"property":"article:tag","content":"Image Management"}],["script",{"type":"application/ld+json"},"{\\"@context\\":\\"https://schema.org\\",\\"@type\\":\\"Article\\",\\"headline\\":\\"이미지 관리\\",\\"image\\":[\\"\\"],\\"dateModified\\":null,\\"author\\":[{\\"@type\\":\\"Person\\",\\"name\\":\\"Cloud-i\\",\\"url\\":\\"https://gway-tech.github.io/guide/\\"}]}"]]},"headers":[{"level":2,"title":"이미지 목록","slug":"이미지-목록","link":"#이미지-목록","children":[]}],"git":{"createdTime":null,"updatedTime":null,"contributors":[]},"readingTime":{"minutes":0.45,"words":135},"filePathRelative":"guide/web/image.md","autoDesc":true}');export{g as comp,u as data};
